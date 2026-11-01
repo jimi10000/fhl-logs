@@ -1,0 +1,9 @@
+===== LogKit 日志归属 =====
+应用:   风火轮音乐
+包名:   com.fenghuolun.audio.player
+版本:   3.2.102
+上传于: 2026-11-01 18:11:01
+仓库:   https://github.com/jimi10000/fhl-logs/tree/main/logs/com.fenghuolun.audio.player
+====================
+
+[INFO] 风火轮音乐 自检日志
