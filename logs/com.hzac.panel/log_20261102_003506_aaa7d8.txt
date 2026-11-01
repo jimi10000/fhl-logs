@@ -1,0 +1,13 @@
+===== LogKit 日志归属 =====
+应用:   空调调试
+包名:   com.hzac.panel
+版本:   1.0
+上传于: 2026-11-02 00:35:06
+仓库:   https://github.com/jimi10000/fhl-logs/tree/main/logs/com.hzac.panel
+====================
+
+===== log_20261102.txt =====
+[LogKit] 空调调试 v1.0 (com.hzac.panel) | SDK=35 | Samsung SM-A5260 | 创建于 2026-11-02 00:27:30.161
+2026-11-02 00:27:30.146 [I] [LogHelper] [main] 全局崩溃捕获器已注册（含 ANR 看门狗与崩溃快照）
+2026-11-02 00:32:02.178 [I] [LogHelper] [main] 全局崩溃捕获器已注册（含 ANR 看门狗与崩溃快照）
+2026-11-02 00:33:06.780 [I] [LogHelper] [main] 全局崩溃捕获器已注册（含 ANR 看门狗与崩溃快照）
